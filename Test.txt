@@ -1,9 +1,3 @@
-<<<<<<< HEAD
 Hi1
-
 Hi2
-
 Hi3
-=======
-Hi1
->>>>>>> parent of aadb81b (Hi 2)
